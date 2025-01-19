@@ -12,8 +12,10 @@ This project utilizes OpenCV, Mediapipe, and PyAutoGUI to implement a real-time 
  Installation:
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/finger-detection.git
-   cd finger-detection
+   git clone git clone https://github.com/Deeptangshu25/Screenshot-showing-fingers.git
+
+   cd cd Screenshot-showing-fingers
+
    
 2. Install the required Python libraries:
    bash
